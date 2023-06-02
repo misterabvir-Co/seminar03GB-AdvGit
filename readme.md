@@ -1,3 +1,4 @@
+- Mazalov Alexey
 - Pavel Palagin
 - Pavel Bakanov
 - Bazarov E
