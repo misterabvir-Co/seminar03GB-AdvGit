@@ -1,5 +1,4 @@
-Pavel Palagin
-Pavel Bakanov
-Bazarov E
-Polikarpov Evgeniy
-Pavel Palagin
+- Pavel Palagin
+- Pavel Bakanov
+- Bazarov E
+- Polikarpov Evgeniy
