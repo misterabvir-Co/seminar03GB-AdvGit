@@ -1,5 +1,5 @@
-- team lead **misterabvir**
-- Pavel Palagin
-- Pavel Bakanov
-- Bazarov E
-- Polikarpov Evgeniy
+- Mazalov Alexey        misterabvir
+- Pavel Palagin         pavel-palagin
+- Pavel Bakanov         pashtetrus
+- Bazarov E             EvgenyBaz
+- Polikarpov Evgeniy    EvgeniyPolik
